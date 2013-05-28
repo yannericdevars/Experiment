@@ -1,0 +1,7 @@
+parameters:
+#    dw_entity_manager.example.class: DW\EntityManagerBundle\Example
+
+services:
+#    dw_entity_manager.example:
+#        class: %dw_entity_manager.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
